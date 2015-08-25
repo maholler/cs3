@@ -31,3 +31,5 @@ The user interface of the CS3 system can be served by any Linux Server running L
 Go to http://99.115.132.118/html/cs3prod.htm  for pictures of one instantiation of a cs3 system which is in commercial use for vineyard management. 
 
 This open source site is in early stages of development.  I'm in the process of adding the latest code for all three of the components described above.  This code has been developed over 3 years starting in 2012 and is in production use at 4 sites. This code was put into open source in May of 2014.  It was developed in collaboration with  Professor Michael Delwiche's Biological and Agricultural Engineering Lab at UC Davis, particularly Bob Coates.  Alan Broad also made major contributions to the wireless network optimization and many sensor interfaces.   
+
+CS3 stands for Camalie System Three
